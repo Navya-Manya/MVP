@@ -43,7 +43,6 @@ chardet==3.0.4
 charset-normalizer==2.1.1
 click==8.0.0
 cloudpickle==1.6.0
-clyent==1.2.2
 codecarbon==2.1.4
 colorama==0.4.1
 common-utils==2.0.1.dev1
