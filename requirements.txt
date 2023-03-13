@@ -47,7 +47,7 @@ codecarbon==2.1.4
 colorama==0.4.1
 common-utils==2.0.1.dev1
 comtypes==1.1.7
-conda==4.8.5
+conda==4.3.16
 conda-build==3.18.9
 conda-package-handling==1.6.0
 conda-verify==3.4.2
