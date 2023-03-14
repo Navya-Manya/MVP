@@ -302,7 +302,7 @@ tifffile==2021.2.1
 tika==1.24
 toml==0.10.2
 toolz==0.10.0
-torch==1.7.1
+torch==0.14.1
 torchvision==0.4.1
 tornado==5.1.1
 tqdm==4.56.0
