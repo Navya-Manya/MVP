@@ -319,7 +319,6 @@ win-unicode-console==0.5
 wincertstore==0.2
 witwidget==1.8.0
 wordcloud==1.8.0
-wrapt==1.12.1
 xgboost==1.1.1
 xlrd==1.2.0
 XlsxWriter==1.2.1
