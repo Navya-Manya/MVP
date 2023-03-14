@@ -299,7 +299,7 @@ testpath==0.4.2
 thinc==8.1.1
 threadpoolctl==2.1.0
 tifffile==2021.2.1
-tika==1.24
+tika==0.10.2
 toml==0.12.0
 toolz==1.13.1
 torch==0.14.1
