@@ -294,8 +294,6 @@ tensorflow==2.4.1
 tensorflow-estimator==2.4.0
 tensorflow-model-optimization==0.5.0
 termcolor==1.1.0
-terminado==0.8.2
-testpath==2.2.0
 threadpoolctl==2.6.0
 tika==0.10.2
 toml==0.12.0
