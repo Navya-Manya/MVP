@@ -297,7 +297,7 @@ termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
 thinc==8.1.1
-threadpoolctl==2.1.0
+threadpoolctl==2.6.0
 tika==0.10.2
 toml==0.12.0
 toolz==1.13.1
